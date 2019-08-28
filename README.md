@@ -1,1 +1,3 @@
-# SoundBars
+# Sound Bars
+
+Unreal Engine 4 project
